@@ -1,1 +1,3 @@
 this is my first class for git
+
+this my edited file
