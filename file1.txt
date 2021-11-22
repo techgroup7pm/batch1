@@ -1,3 +1,6 @@
 this is my first class for git
 
+hello welcome to devops class
+
+
 this my edited file
